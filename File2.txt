@@ -1,8 +1,0 @@
-Hello vino
-<<<<<<< HEAD
-Hello Vinolisha
-
-=======
-hello sherin
-bye sathyan
->>>>>>> branch1
